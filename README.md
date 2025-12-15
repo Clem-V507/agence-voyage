@@ -27,15 +27,15 @@ Après analyse du dictionnaire de données, nous avons constater que celui-ci ne
 
 #### Travail 2 : Dépendances fonctionnelles (DF)
 Tout d'abord, nous avons représenté les dépendances fonctionnnelles par entité : 
-- ``Client`` : 
-- ``Accompagnateur`` : 
-- ``Pays`` : 
-- ``Ville`` : 
-- ``Hotel`` : 
-- ``Circuit`` : 
-- ``Réservation`` : 
-<br>Puis, pour avoir une vision plus globale, nous nous sommes concentrés sur les dépendances inter-entité :
-- Globales : 
+- ``Client`` : id_client > nom_client, prenom_client, adresse_client, ca
+- ``Accompagnateur`` : id_accompagnateur > nom_accompagnateur, prenom_accompagnateur, adresse_accompagnateur
+- ``Pays`` : id_pays > nom_pays
+- ``Ville`` : id_ville > nom_ville, id_pays
+- ``Hotel`` : id_hotel > nom_hotel, adresse_hotel, id_ville
+- ``Circuit`` : id_circuit > intitule_circuit, date_depart, date_arrivee, date_limite_1, date_limite_2, id_ville_depart, id_ville_arrivee, id_hotel, transport, id_accompagnateur, nb_places, prix
+- ``Réservation`` : id_reservation > id_client, id_circuit, date_demande, nb_places_reservees, acompte, solde, remise, remboursement, statut
+<br>Puis, pour avoir une vision plus globale, nous nous sommes concentrés sur les dépendances inter-entité : 
+- Globales : id_reservation > id_client, id_circuit > id_accompagnateur, id_hotel > id_ville > id_pays
 
 #### Travail 3 : Graphe des dépendances fonctionnelles (GDF)
 Après avoir effectué l'étape précédente, nous avons pu construire les graphes des dépendances fonctionnelles sur le même schéma.
