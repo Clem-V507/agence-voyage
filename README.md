@@ -8,7 +8,7 @@ Projet de développement du SI d’une agence de voyage
 
 ### Étape 0 : Création du projet
 
-Pour bien commencer le projet, nous avons créé un GitHub Repository [``agence-voyage``]([https://github.com/users/Clem-V507/projects/2](https://github.com/Clem-V507/agence-voyage) accompagné d'un GitHub Project [``Suivi des tâches``](https://github.com/users/Clem-V507/projects/2), sous forme de tableau Kanban, pour le suivi de l'avancement du projet.
+Pour bien commencer le projet, nous avons créé un GitHub Repository [``agence-voyage``](https://github.com/Clem-V507/agence-voyage) accompagné d'un GitHub Project [``Suivi des tâches``](https://github.com/users/Clem-V507/projects/2), sous forme de tableau Kanban, pour le suivi de l'avancement du projet.
 
 ### Étape 1 : Préparation du dictionnaire de données
 
