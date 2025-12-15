@@ -38,7 +38,7 @@ Puis, pour avoir une vision plus globale, nous nous sommes concentrés sur les d
 - Globales : 
 
 #### Travail 3 : Graphe des dépendances fonctionnelles (GDF)
-Après avoir effectué l'étape précédente, nous avons pu construire les graphes des dépendances fonctionnelles sur le même schéma.<br>
+> Après avoir effectué l'étape précédente, nous avons pu construire les graphes des dépendances fonctionnelles sur le même schéma.
 Premièrement, un graphe par entité :
 Tout d'abord, nous avons représenté les dépendances fonctionnnelles par entité : 
 - ``Client`` : [Schéma Canva](https://www.canva.com/design/DAG7kt2YIwg/K7bTKc5UGsLLWAFE7NpT0g/edit?utm_content=DAG7kt2YIwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -47,6 +47,6 @@ Tout d'abord, nous avons représenté les dépendances fonctionnnelles par entit
 - ``Ville`` : [Schéma Canva](https://www.canva.com/design/DAG7koBUknc/7CeAhiZZTYPyEkxn9fhS6A/edit?utm_content=DAG7koBUknc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ``Hotel`` : [Schéma Canva](https://www.canva.com/design/DAG7kroOWn8/QL_4dsjzrLjCbk1cOG0Efw/edit?utm_content=DAG7kroOWn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ``Circuit`` : [Schéma Canva](https://www.canva.com/design/DAG7kuRfHOs/5ROXuQdjdOqW8F4LwvZakA/edit?utm_content=DAG7kuRfHOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- ``Réservation`` : [Schéma Canva](https://www.canva.com/design/DAG7krwkqHU/L_6k1_hC1al4NOPTYAQHZg/edit?utm_content=DAG7krwkqHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
-Deuxièmement, un graphe inter-entité :
+- ``Réservation`` : [Schéma Canva](https://www.canva.com/design/DAG7krwkqHU/L_6k1_hC1al4NOPTYAQHZg/edit?utm_content=DAG7krwkqHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<br>Deuxièmement, un graphe inter-entité :
 - Globale : [Schéma Canva](https://www.canva.com/design/DAG7SSVKi0o/rHj_6YPSpbUhJglYqP4O4g/edit?utm_content=DAG7SSVKi0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
