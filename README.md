@@ -8,4 +8,8 @@ Projet de développement du SI d’une agence de voyage
 
 ### Étape 0 : Création du projet
 
-Création du repository ``agence-voyage`` accompagné de son project (tableau Kanban) pour le suivi de l'avancement du projet (tâches).
+Pour bien commencer le projet, nous avons créé un GitHub Repository ``agence-voyage`` accompagné de son GitHub Project GitHub (tableau Kanban) pour le suivi de l'avancement du projet (tâches).
+
+### Étape 1 : Préparation du dictionnaire de données
+
+À partir des règles de gestion prédéfinies, nous avons pu construire un tableau Excel référençant les attributs, primary key (PK) et foreign key (FK) par entité, leur type de données et description, associés à ces règles.
