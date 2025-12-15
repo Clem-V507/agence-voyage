@@ -38,7 +38,7 @@ Tout d'abord, nous avons représenté les dépendances fonctionnnelles par entit
 - Globales : 
 
 #### Travail 3 : Graphe des dépendances fonctionnelles (GDF)
-> Après avoir effectué l'étape précédente, nous avons pu construire les graphes des dépendances fonctionnelles sur le même schéma.
+Après avoir effectué l'étape précédente, nous avons pu construire les graphes des dépendances fonctionnelles sur le même schéma.
 <br>Premièrement, un graphe par entité :
 Tout d'abord, nous avons représenté les dépendances fonctionnnelles par entité : 
 - ``Client`` : [Schéma Canva](https://www.canva.com/design/DAG7kt2YIwg/K7bTKc5UGsLLWAFE7NpT0g/edit?utm_content=DAG7kt2YIwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
