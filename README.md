@@ -49,3 +49,7 @@ Après avoir effectué l'étape précédente, nous avons pu construire les graph
 - ``Réservation`` : [Schéma Canva](https://www.canva.com/design/DAG7krwkqHU/L_6k1_hC1al4NOPTYAQHZg/edit?utm_content=DAG7krwkqHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>Deuxièmement, un graphe inter-entité :
 - Globale : [Schéma Canva](https://www.canva.com/design/DAG7SSVKi0o/rHj_6YPSpbUhJglYqP4O4g/edit?utm_content=DAG7SSVKi0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### Étape 4 : Schéma du modèle conceptuel de données (MCD)
+
+Au cours de cette étape, nous avons construit, en suivant les actions demandées, le modèle conceptuel de données (MCD), que vous trouverez au format png dans ce Repository, ainsi que sous forme de [Schéma Canva](https://www.canva.com/design/DAG7mI6Jxy8/DX6Ywl3JSXKL2O-Fj0m5xw/edit?utm_content=DAG7mI6Jxy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
